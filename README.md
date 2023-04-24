@@ -11,7 +11,7 @@
      c. Visualization
      d. Data set is prepared for all the participants
      e. Data of each participant is written into .csv file and placed in filepath : DS/Input_data/
-5.Execution_code file has to be run - This file contains
+5.Execution_code.py file has to be run - This file contains
       a. Reads the .csv files from path DS/Input_data/ for all participants
       b. Common functions to train,test and evaluate models : Randomforest, LSTM and BiLSTM
       c. Execute the function - all the common functions are called and will run in a loop for all the participants and display the results
