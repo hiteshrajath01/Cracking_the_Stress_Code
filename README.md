@@ -6,7 +6,7 @@
  2. Stress-Predict-Dataset-main.zip has to be placed in folder structure : DS/Stress-Predict-Dataset-main.zip
  3. Above folders has to be created and Stress-Predict-Dataset-main.zip file has to be placed in respective file path
  4. EDA.ipynb file have to be run - This file contains 
-     1. Data preparation steps(gets the raw data file and combine it), 
+     1. Data preparation steps - gets the raw data file and combine it 
      2. Data preprocessing 
      3. Visualization
      4. Data set is prepared for all the participants
