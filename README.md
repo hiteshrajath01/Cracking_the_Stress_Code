@@ -10,7 +10,7 @@
      2. Data preprocessing 
      3. Visualization
      4. Data set is prepared for all the participants
-     5. Data of each participant is write into .csv file and placed in filepath : DS/Input_data/
+     5. Data of each participant is written into .csv file and placed in filepath : DS/Input_data/
  5.Execution_code file has to be run - This file contains
       1. Reads the .csv files from path DS/Input_data/ for all participants
       2. Common functions to train,test and evaluate models : Randomforest, LSTM and BiLSTM
